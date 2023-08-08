@@ -1,0 +1,4 @@
+runtime: image
+
+image:
+  url: docker.io/peerjs/peerjs-server:latest
